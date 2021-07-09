@@ -26,7 +26,7 @@ function Nav() {
                         <MenuIcon className={classes.white}/>
                     </IconButton>
 
-                    <Typography variant="h5" className={classes.title}>Chatty</Typography>
+                    <Typography variant="h5" className={classes.title}><a href="#root" class="chattyHead">Chatty</a></Typography>
 
                     <RefreshButton/>
                     <NewThreadButton/>

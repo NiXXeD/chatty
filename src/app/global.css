@@ -15,3 +15,17 @@ a:hover {
 .postbody a {
     word-break: break-all;
 }
+
+.chattyHead{
+    text-decoration:none;
+    color:#fff;
+}
+
+.chattyHead:visited{
+    text-decoration:none;
+    color:#fff !important;
+}
+
+.chattyHead:hover{
+    color:#f3e7b5;
+}
